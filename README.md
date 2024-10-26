@@ -1,2 +1,2 @@
 # bachelor-thesis-bonkass-2024
-Code for analyzing cell-to-cell communication networks from spatial multiomics single-cell data, developed for my bachelor's thesis.
+This repository contains the code developed for my bachelor’s thesis, conducted in collaboration with the Division of Applied Bioinformatics at the German Cancer Research Center (DKFZ) in Heidelberg. The project involves constructing and analyzing cell-to-cell communication networks from spatially resolved, single-cell transcriptomics data, using computational tools and methodologies in R and Python.
